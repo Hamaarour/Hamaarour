@@ -4,13 +4,13 @@
 </div>
 <h3 align="center">A  Full Stack Developer from MOROCCO</h3>
 
-- 🔭 I’m currently working on [My final-year project](LOADING ...)
+- 🔭 I’m currently working on  My final-year project (LOADING ...)
 
 - 🌱 I’m currently learning **Java Script , Vue.js , PHP , LARAVEL**
 
-- 👨‍💻 All of my projects are available at [LOADING ...](LOADING ...)
+- 👨‍💻 All of my projects are available at (LOADING ...)
 
-- 📝 I regularly write articles on [LOADING ...](LOADING ...)
+- 📝 I regularly write articles on (LOADING ...)
 
 - 💬 Ask me about **C#**
 
