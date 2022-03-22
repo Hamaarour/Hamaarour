@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Hicham</h1>
-  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+ 
 </div>
 <h3 align="center">A  Full Stack Developer from MOROCCO</h3>
 
