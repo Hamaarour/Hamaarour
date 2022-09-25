@@ -54,6 +54,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <a href="https://instagram.com/hicham_amaarour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hicham_amaarour" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Hicham_Amaarourr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="hicham_amaarour" height="30" width="40" /></a> 
 <a href="https://api.whatsapp.com/send?phone=212658638972&text=Hello!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="hicham_amaarour" height="30" width="40" /></a>
-
+<a href="https://www.hackerrank.com/hindjanati6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amaarour_hicham1" height="30" width="40" /></a>
 </p>
 
