@@ -18,7 +18,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amaarour.hicham97@gmail.com)](mailto:amaarour.hicham97@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:hamaarour@outlook.com)](mailto:hamaarour@outlook.com)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
+https://github-profile-trophy.vercel.app/?username=Hamaarour&no-frame=true
 -  ##### ⚡Fun fact: It's not a bug it's an undocumented feature.
 <!-- wi*quL3fcV -->
 
