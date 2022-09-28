@@ -10,10 +10,8 @@
 
 - 👨‍💻 All of my projects are available at (LOADING ...)
 
-- 📝 I regularly write articles on (LOADING ...)
-
 - 💬 Ask me about **C#**
-
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamaarour&show_icons=true&theme=dracula&count_private=true)
 - 📫 How to reach me 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amaarour.hicham97@gmail.com)](mailto:amaarour.hicham97@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:hamaarour@outlook.com)](mailto:hamaarour@outlook.com)
