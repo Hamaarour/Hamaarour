@@ -4,8 +4,6 @@
 </div>
 <h3 align="center">A  Full Stack Developer from MOROCCO</h3>
 
-- 🔭 I’m currently working on  My final-year project (LOADING ...)
-
 - 🌱 I’m currently learning **Java Script, PHP**
 
 - 👨‍💻 All of my projects are available at (LOADING ...)
