@@ -2,9 +2,9 @@
   <h1 align="center">Hi 👋, I'm Hicham</h1>
  
 </div>
-<h3 align="center">A  Full Stack Developer from MOROCCO</h3>
+<h3 align="center">A  Front End Developer from MOROCCO</h3>
 
-- 🌱 I’m currently learning **Java Script, PHP**
+- 🌱 I’m currently learning **Java Script,**
 
 - 👨‍💻 All of my projects are available at (LOADING ...)
 
