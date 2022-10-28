@@ -47,4 +47,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <a href="https://api.whatsapp.com/send?phone=212658638972&text=Hello!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="hicham_amaarour" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amaarour_hicham1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amaarour_hicham1" height="30" width="40" /></a>
 </p>
+<a href="https://www.codewars.com/users/Hicham%20Amaarour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codewars.svg" alt="HichamAmaarour" height="30" width="40" /></a>
+</p>
 
