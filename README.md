@@ -4,9 +4,8 @@
 </div>
 <h3 align="center">A  Front End Developer from MOROCCO</h3>
 
-- 🌱 I’m currently learning **Java Script,**
-
-- 👨‍💻 All of my projects are available at (LOADING ...)
+- 👨‍💻 I’m currently learning **Java Script,**
+<!--All of my projects are available at (LOADING ...)-->
 
 - 💬 Ask me about **C#**
 
