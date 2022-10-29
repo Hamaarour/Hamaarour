@@ -38,6 +38,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamaarour&show_icons=true&locale=en&layout=compact" alt="hamaarour" />
 
 <br>
+[![<hamaarou>'s 42 stats](https://badge.mediaplus.ma/<Green binary>/<hamaarou>)]
+
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hicham-amaarour-5a1b84220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hicham-amaarour-5a1b84220/" height="30" width="40" /></a>  
@@ -47,6 +50,5 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <a href="https://api.whatsapp.com/send?phone=212658638972&text=Hello!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="hicham_amaarour" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amaarour_hicham1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amaarour_hicham1" height="30" width="40" /></a>
 </p>
-<a href="https://www.codewars.com/users/Hicham%20Amaarour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codewars.svg" alt="HichamAmaarour" height="30" width="40" /></a>
-</p>
+
 
