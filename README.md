@@ -38,7 +38,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamaarour&show_icons=true&locale=en&layout=compact" alt="hamaarour" />
 
 <br>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hamaarou" alt="hamaarou's 42 stats" /></a>
+<a href="https://github.com/Hamaarour/Hamaarour"><img src="https://badge.mediaplus.ma/greenbinary/hamaarou" alt="hamaarou's 42 stats" /></a>
 
 <br>
 <h3 align="center">Connect with me:</h3>
