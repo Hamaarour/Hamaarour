@@ -65,29 +65,14 @@
 </p>
 
 
+---------------
+| [![Hamaarour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamaarour&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Hamaarour?tab=repositories) | [![Hamaarour's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamaarour&layout=compact&hide_border=true&theme=jolly)](https://github.com/Hamaarour?tab=repositories) |
+|:-:|:-:|
 
-
-
-
-
-
-
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamaarour&show_icons=true&locale=en&layout=compact" alt="hamaarour" />
-
-<br>
-
-
-<br>
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hicham-amaarour-5a1b84220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hicham-amaarour-5a1b84220/" height="30" width="40" /></a>  
-<a href="https://fb.com/https://www.facebook.com/hicham.amaarour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hicham.amaarour" height="30" width="40" /></a>  
-<a href="https://instagram.com/hicham_amaarour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hicham_amaarour" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Hicham_Amaarourr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="hicham_amaarour" height="30" width="40" /></a> 
-<a href="https://api.whatsapp.com/send?phone=212658638972&text=Hello!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="hicham_amaarour" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amaarour_hicham1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amaarour_hicham1" height="30" width="40" /></a>
+	<img alt="Hamaarour's visitors" src="https://komarev.com/ghpvc/?username=Hamaarour&color=8c36db&style=flat&label=visitors" />
+	<img alt="Hamaarour's followers" src="https://img.shields.io/github/followers/Hamaarour?color=blueviolet" />
+	<img alt="Hamaarour's stars" src="https://img.shields.io/github/stars/Hamaarour?color=blueviolet" />
 </p>
 
 
