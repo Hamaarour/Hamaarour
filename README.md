@@ -133,13 +133,48 @@ Just keep swimming
 
 </div> 
 
-[![Hamaarour's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hamaarour&bg_color=291b3e&color=ffffff&line=de58c1&point=8b3ed2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-	
+
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+![snake gif](https://github.com/Hamaarour/Hamaarour/blob/output/github-contribution-grid-snake.gif)	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+</div>
+
+
+
 <p align="center">
 <img alt="Hamaarour's visitors" src="https://komarev.com/ghpvc/?username=Hamaarour&color=8c36db&style=flat&label=visitors" />
 <img alt="Hamaarour's followers" src="https://img.shields.io/github/followers/Hamaarour?color=blueviolet" />
 <img alt="Hamaarour's stars" src="https://img.shields.io/github/stars/Hamaarour?color=blueviolet" />
 </p>
+
+
+
+
+
+
+
+
 
 
 
