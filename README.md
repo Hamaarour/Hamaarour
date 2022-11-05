@@ -61,9 +61,8 @@ Just keep swimming
 
 
 
+<div align="center"><h3>░▒▓█ LANGUAGES & TOOLS █▓▒░</h3></div>
 
-
-<h3 align="center">░▒▓█ LANGUAGES & TOOLS █▓▒░</h3>
 
 
 <table width="100" align="center">
