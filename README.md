@@ -133,13 +133,14 @@ Just keep swimming
 
 </div> 
 
-&nbsp;&nbsp;&nbsp;&nbsp; 𝙻𝚘𝚘𝚔 𝚝𝚑𝚎 𝚜𝚗𝚊𝚔𝚎 𝚒𝚜 𝚎𝚊𝚝𝚒𝚗𝚐 𝚖𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜..🐍
+
 
 
 
 
 <div align="center">
 
+𝙻𝚘𝚘𝚔 𝚝𝚑𝚎 𝚜𝚗𝚊𝚔𝚎 𝚒𝚜 𝚎𝚊𝚝𝚒𝚗𝚐 𝚖𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜..🐍 
 
 
 
@@ -148,9 +149,7 @@ Just keep swimming
 
 
 
-
-
-![snake gif](https://github.com/Hamaarour/Hamaarour/blob/output/github-contribution-grid-snake.gif)	 
+![Snake animation](https://github.com/Hamaarour/Hamaarour/blob/output/github-contribution-grid-snake.svg)
 	 
 	 
 	 
