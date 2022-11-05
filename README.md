@@ -9,7 +9,7 @@
 
  
 
-<h1 align="center">░▒▓█ WHOAMI █▓▒░</h1>
+<h3 align="center">░▒▓█ WHOAMI █▓▒░</h3>
 
 <p align="center">
 Computer Science Student at 1337 Benguerir, I'm passionate about programming and development especialy web-dev <b>Front-end</b>, and I'm always wanting to help people "ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ, ɪ'ᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ 🙂". <br> Besides being part of my essence, I try to pass it on to people, the feeling of progress and consistency captivates me.<br>
@@ -20,7 +20,7 @@ This move me.
 
 
  
-<h1 align="center">░▒▓█ Let's connect █▓▒░</h1>
+<h3 align="center">░▒▓█ LET'S CONNECT █▓▒░</h3>
   
   
   
@@ -41,7 +41,7 @@ This move me.
 ---
 
 
-<h1 align="center">░▒▓█ Languages & tools █▓▒░</h1>
+<h3 align="center">░▒▓█ LANGUAGES & TOOLS █▓▒░</h3>
 
 
 <table width="100" align="center">
