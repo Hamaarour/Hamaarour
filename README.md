@@ -42,7 +42,7 @@ Just keep swimming
 
 <div align="center">
 	
-<h3>░▒▓█ 42 PRIJECTS █▓▒░</h3>
+<h3>░▒▓█ 1137 PRIJECTS █▓▒░</h3>
 
 
 <a href="https://github.com/Hamaarour/libft-1337"><img src="https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png"></a>
