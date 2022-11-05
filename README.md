@@ -130,10 +130,10 @@ Just keep swimming
   	</a>
     </td>
     <td align='center'>
-        <img src="https://cdn-icons-png.flaticon.com/128/4669/4669966.png" alt="command-line" width="40" height="40">
+        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="command-line" width="40" height="40">
     </td>
     <td align='center'>
-        <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" alt="gitub" width="40" height="40">
+        <img src="https://img.icons8.com/color/2x/command-line.png" alt="gitub" width="40" height="40">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40">
