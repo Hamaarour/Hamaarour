@@ -20,6 +20,7 @@ Just keep swimming
 </p>
 
 
+
  
 <h3 align="center">░▒▓█ LET'S CONNECT █▓▒░</h3>
   
@@ -39,7 +40,24 @@ Just keep swimming
 </p>
 
 
+<div align="center">
+
+𝙻𝚘𝚘𝚔 𝚝𝚑𝚎 𝚜𝚗𝚊𝚔𝚎 𝚒𝚜 𝚎𝚊𝚝𝚒𝚗𝚐 𝚖𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜..🐍 
+	
+![Snake animation](https://github.com/Hamaarour/Hamaarour/blob/output/github-contribution-grid-snake.svg)
+	 
+ 
+	 
+</div>
+
+
+
+
+
 ---
+
+
+
 
 
 <h3 align="center">░▒▓█ LANGUAGES & TOOLS █▓▒░</h3>
@@ -136,32 +154,6 @@ Just keep swimming
 
 
 
-
-
-<div align="center">
-
-𝙻𝚘𝚘𝚔 𝚝𝚑𝚎 𝚜𝚗𝚊𝚔𝚎 𝚒𝚜 𝚎𝚊𝚝𝚒𝚗𝚐 𝚖𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜..🐍 
-
-
-
-
-
-
-
-
-![Snake animation](https://github.com/Hamaarour/Hamaarour/blob/output/github-contribution-grid-snake.svg)
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-</div>
 
 
 
