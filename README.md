@@ -41,14 +41,17 @@ Just keep swimming
 
 
 <div align="center">
-
-𝙻𝚘𝚘𝚔 𝚝𝚑𝚎 𝚜𝚗𝚊𝚔𝚎 𝚒𝚜 𝚎𝚊𝚝𝚒𝚗𝚐 𝚖𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜..🐍 
 	
-![Snake animation](https://github.com/Hamaarour/Hamaarour/blob/output/github-contribution-grid-snake.svg)
-	 
+<h3>░▒▓█ 42 PRIJECTS █▓▒░</h3>
+
+
+<a href="https://github.com/Hamaarour/libft-1337"><img src="https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png"></a>
+<a href="https://github.com/Hamaarour/ft_printf_1337"><img src="https://cdn.discordapp.com/attachments/780570837505540126/974802280060706886/ft_printf.png"></a>
+	
+
  
-	 
 </div>
+
 
 
 
@@ -143,6 +146,11 @@ Just keep swimming
 
 <div align="center">
 
+𝙻𝚘𝚘𝚔 𝚝𝚑𝚎 𝚜𝚗𝚊𝚔𝚎 𝚒𝚜 𝚎𝚊𝚝𝚒𝚗𝚐 𝚖𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜..🐍 
+![Snake animation](https://github.com/Hamaarour/Hamaarour/blob/output/github-contribution-grid-snake.svg)	
+	
+	
+
 
 ---------------
 | [![Hamaarour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamaarour&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Hamaarour?tab=repositories) | [![Hamaarour's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamaarour&layout=compact&hide_border=true&theme=jolly)](https://github.com/Hamaarour?tab=repositories) | 
@@ -162,6 +170,8 @@ Just keep swimming
 <img alt="Hamaarour's followers" src="https://img.shields.io/github/followers/Hamaarour?color=blueviolet" />
 <img alt="Hamaarour's stars" src="https://img.shields.io/github/stars/Hamaarour?color=blueviolet" />
 </p>
+
+
 
 
 
