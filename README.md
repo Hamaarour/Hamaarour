@@ -12,9 +12,9 @@
 <h3 align="center">░▒▓█ WHOAMI █▓▒░</h3>
 
 <p align="center">
-Computer Science Student at 1337 Benguerir, I'm passionate about programming and development especialy web-dev <b>Front-end</b>, and I'm always wanting to help people "ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ, ɪ'ᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ 🙂". <br> The feeling of progress and consistency captivates me.<br>
-I want to be the best I can, giving my best and continually challenging myself, and that's when I feel comfortable, because I know it's an opportunity to evolve. I have clear goals, and goals that I set with my inner self. The main thing is to be better than I was yesterday.<br>
-The programming changed my thinking a lot, besides, of course, making me learn more - which I'm enjoying thoroughly!. <br>
+A Computer Science Student at 1337 Benguerir who is passionate about programming and development, especialy web-dev. <b>Front-end</b>, I'm always eager to help people "ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ, ɪ'ᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ 🙂". <br> The feeling of progress and consistency captivates me.<br>
+I want to be the best I can, keep giving my best, and continually challenging myself. Only then do I feel comfortable, because I know it's an opportunity to evolve. I have clear goals. Goals that I set with my inner self. My priority is to be better than what I was yesterday.<br>
+Programming changed my thinking a lot, besides, of course, making me learn more - which I'm enjoying thoroughly!. <br>
 "Learning never exhausts the mind." - Leonardo da Vinci <br>
 Just keep swimming
 </p>
