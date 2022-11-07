@@ -161,7 +161,7 @@ Just keep swimming
 
 
 
-![Codewars rank](https://www.codewars.com/users/HichamAmaarour/badges/large)
+![Codewars rank](https://www.codewars.com/users/Hicham%20Amaarour/badges/large)
 
 
 
