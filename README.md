@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 , I'm Hicham Amaarour, (Xerxes)</h1>
 
  <div align="center">
-  <a href="https://github.com/Hamaarour/Hamaarour">
+<!--   <a href="https://github.com/Hamaarour/Hamaarour">
   <img src="https://badge.mediaplus.ma/greenbinary/hamaarou" alt="hamaarou's 42 stats" />
-  </a>
+  </a> -->
 </div>
 
 
