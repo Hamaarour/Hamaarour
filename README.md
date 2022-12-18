@@ -34,7 +34,7 @@ Just keep swimming
 	<a href="https://www.linkedin.com/in/hicham-amaarour-5a1b84220/">
 	<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-%238B3ED2?style=flat&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/hicham-amaarour-5a1b84220/" />
 	</a>
-	<a href="https://https://discord.com/users/Xerxes#9813">
+	<a href="https://https://discord.com/users/690657837067796522">
 	<img alt="Discordd Profile" src="https://img.shields.io/badge/-Discord-%238B3ED2?style=flat&logo=discord&logoColor=white" />
 	</a>
 </p>
