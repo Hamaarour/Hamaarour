@@ -147,12 +147,12 @@ Just keep swimming
 
 
 
-/*<div align="center">
+<!--<div align="center">
 
 𝙻𝚘𝚘𝚔 𝚝𝚑𝚎 𝚜𝚗𝚊𝚔𝚎 𝚒𝚜 𝚎𝚊𝚝𝚒𝚗𝚐 𝚖𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜..🐍 
 ![Snake animation](https://github.com/Hamaarour/Hamaarour/blob/output/github-contribution-grid-snake.svg)	
 	
-	
+-->	
 
 
 ---------------
@@ -162,7 +162,7 @@ Just keep swimming
 
 </div> 
 
-*/
+
 
 ![Codewars rank](https://www.codewars.com/users/Hicham%20Amaarour/badges/large)
 
