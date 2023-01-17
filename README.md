@@ -50,7 +50,7 @@ Just keep swimming
 <a href="https://github.com/Hamaarour/get_next_line_1337"><img src="https://github.com/ablaamim/Get_Next_Line/blob/main/SRC/get_next_linem.png"></a>
 <a href="https://github.com/Hamaarour/Born2Beroot_1337"><img src="https://github.com/ablaamim/Born2BeRoot/blob/main/SRC/born2berootm.png"></a>
 <a href="https://github.com/Hamaarour/So_Long_42"><img src="https://cdn.discordapp.com/attachments/780570837505540126/974802342400655360/so_long.png">
-<a href="https://github.com/Hamaarour/Pipex_42">
+<a href="https://github.com/Hamaarour/Minitalk_42"><img src="https://github.com/Hamaarour/Minitalk_42/blob/main/minitalkm.png">
 </a>
 
 	
