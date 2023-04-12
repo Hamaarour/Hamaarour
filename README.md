@@ -53,9 +53,10 @@ Just keep swimming
 <a href="https://github.com/Hamaarour/Minitalk_42"><img src="https://github.com/Hamaarour/Minitalk_42/blob/main/minitalkm.png">
 </a>
 <a href="https://github.com/Hamaarour/push_swap"><img src="https://github.com/Hamaarour/push_swap/blob/main/push_swapm.png">
-	
+<a href="https://github.com/Hamaarour/minishell"><img src="https://github.com/Hamaarour/minishell/blob/Parsing/minishell.png">	
 
  
+	
 </div>
 
 
