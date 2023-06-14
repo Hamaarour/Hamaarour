@@ -146,16 +146,20 @@ Just keep swimming
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40">
     </td>
 </tr>
+<tr>
+<td align='center'>
+        <img src="..." alt="React" width="40" height="40">
+    </td>
+</tr>
 </table>
 
 
 
-<!--<div align="center">
+<div align="center">
 
 𝙻𝚘𝚘𝚔 𝚝𝚑𝚎 𝚜𝚗𝚊𝚔𝚎 𝚒𝚜 𝚎𝚊𝚝𝚒𝚗𝚐 𝚖𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜..🐍 
 ![Snake animation](https://github.com/Hamaarour/Hamaarour/blob/output/github-contribution-grid-snake.svg)	
 	
--->	
 
 
 ---------------
