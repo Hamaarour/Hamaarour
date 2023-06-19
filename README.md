@@ -148,7 +148,7 @@ Just keep swimming
 </tr>
 <tr>
 <td align='center'>
-        <img src="..." alt="React" width="40" height="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40">
     </td>
 </tr>
 </table>
