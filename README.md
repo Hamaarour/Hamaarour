@@ -138,6 +138,7 @@ Just keep swimming
 	</a>
  </td>
 <tr/>
+	<!-- ROW 4-->
 <tr>
     <td align='center' width="190">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -150,6 +151,7 @@ Just keep swimming
         <img src="https://img.icons8.com/color/2x/command-line.png" alt="gitub" width="40" height="40">
     </td>
 </tr>
+<!-- ROW 5-->
 <tr>
     <td align='center' width="190">
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -161,7 +163,12 @@ Just keep swimming
   	<img src="https://www.freeiconspng.com/uploads/brushed-metal-apple-mac-icon-29.png" alt="MacOs" width="40" height="40"> 	
   	</a>
     </td>
-</tr>
+     </td>
+	<td align='center' width="190">
+	<a href="" target="_blank" rel="noreferrer">
+  	<img src="https://www.freeiconspng.com/uploads/microsoft-windows-logo-png-5.png" alt="Windows" width="40" height="40"> 	
+  	</a>
+	</td>
 </table>
 <!-- -->
 
