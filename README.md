@@ -73,6 +73,7 @@ Just keep swimming
 
 
 <table width="100" align="center">
+	<!-- ROW 1 -->
 <tr>
     <td align='center' width="190">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -90,16 +91,17 @@ Just keep swimming
 	</a> 
     </td>
      <td align='center' width="190">
-        <a>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-	</a> 
+       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+	<br>
     </td>
     <td align='center'  width="190">
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-	</a>
+        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+	</a> 
     </td>
 </tr>
+	<!-- ROW 2-->
 <tr>
     <td align='center' width="190">
        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -107,52 +109,61 @@ Just keep swimming
 	</a>
     </td>
     <td align='center' width="190">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-	<br>
+       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40">
     </td>
      <td align='center' width="190">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40">
+    </td>
+    <td align='center'>
+       <a>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+       </a> 
+     </td>
+	<td align='center'>
+          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+	    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+	  </a>
+         </td>
+</tr>
+	<!-- ROW 3-->
+<tr>
+  <td align='center'>
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 	<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 	</a> 
-    </td>
-    <td align='center' width="190">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  </td>
+ <td align='center'>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 	</a>
-    </td>
-    <td align='center'>
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-    </td>
-</tr>
+ </td>
+<tr/>
 <tr>
-    <td align='center'>
+    <td align='center' width="190">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" 		target="_blank" rel="noreferrer">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
+        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="command-line" width="40" height="40">
+    </td>
+    <td align='center' width="190" >
+        <img src="https://img.icons8.com/color/2x/command-line.png" alt="gitub" width="40" height="40">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   	</a>
     </td>
-    <td align='center'>
-        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="command-line" width="40" height="40">
-    </td>
-    <td align='center'>
-        <img src="https://img.icons8.com/color/2x/command-line.png" alt="gitub" width="40" height="40">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40">
-    </td>
-</tr>
-<tr>
-<td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40">
+	<td align='center' width="190">
+	<a href="" target="_blank" rel="noreferrer">
+  	<img src="https://www.freeiconspng.com/uploads/brushed-metal-apple-mac-icon-29.png" alt="MacOs" width="40" height="40"> 	
+  	</a>
     </td>
 </tr>
 </table>
-
+<!-- -->
 
 
 <div align="center">
