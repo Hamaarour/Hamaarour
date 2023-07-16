@@ -55,7 +55,7 @@ Just keep swimming
 <a href="https://github.com/Hamaarour/push_swap"><img src="https://github.com/Hamaarour/push_swap/blob/main/push_swapm.png">
 <a href="https://github.com/Hamaarour/minishell"><img src="https://github.com/Hamaarour/minishell/blob/Parsing/minishell.png">	
 <a href="https://github.com/Hamaarour/Philosopher"><img src="https://github.com/Hamaarour/Philosopher/blob/main/assets/philosophers.png">	
-
+<a href="https://github.com/Hamaarour/CPP_Modules"><img src="https://github.com/Hamaarour/CPP_Modules/blob/main/assets/cppe.png">
 	
 </div>
 
