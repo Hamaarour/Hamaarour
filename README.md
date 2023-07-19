@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 , I'm Hicham Amaarour, (Xerxes)</h1>
+<h1 align="center">Hi there 👋 , I'm Hicham Amaarour</h1>
 
  <div align="center">
 <!--   <a href="https://github.com/Hamaarour/Hamaarour">
