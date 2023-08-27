@@ -177,14 +177,6 @@ Just keep swimming
 </table>
 <!-- -->
 
-
-<div align="center">
-
-𝙻𝚘𝚘𝚔 𝚝𝚑𝚎 𝚜𝚗𝚊𝚔𝚎 𝚒𝚜 𝚎𝚊𝚝𝚒𝚗𝚐 𝚖𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜..🐍 
-![Snake animation](https://github.com/Hamaarour/Hamaarour/blob/output/github-contribution-grid-snake.svg)	
-	
-
-
 ---------------
 | [![Hamaarour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamaarour&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Hamaarour?tab=repositories) | [![Hamaarour's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamaarour&layout=compact&hide_border=true&theme=jolly)](https://github.com/Hamaarour?tab=repositories) | 
 |:-:|:-:|
