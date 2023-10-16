@@ -19,11 +19,10 @@ Programming has not only enriched my technical skills but also transformed my th
 <br>
 
 <p align="center">
-  <font color="purple"> >_ Just keep swimming.</font>
-</p>
+  <font color="purple"> >_ "Just keep swimming."</font>
 I find my inspiration in these encouraging words from my best friend. They serve as a constant reminder to persevere through life's challenges, maintain resilience, and steadfastly continue moving forward.
 </p>
-
+</p>
 
 
  
