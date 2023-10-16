@@ -58,7 +58,7 @@ Just keep swimming
 <a href="https://github.com/Hamaarour/CPP_Modules"><img src="https://github.com/Hamaarour/CPP_Modules/blob/main/assets/cppe.png">
 
 <a href="https://github.com/Hamaarour/Net_Practice"><img src="https://github.com/Hamaarour/Net_Practice/blob/main/assets/netpracticee.png">
-<a href="https://github.com/Hamaarour/Cub3D_1337"><img src="https://github.com/Hamaarour/Cub3D_1337/blob/Parsing/assets/cub3de.png">
+<a href="https://github.com/Hamaarour/Cub3D_1337"><img src="https://github.com/Hamaarour/Cub3D_1337/blob/parsing/assets/cub3de.png">
 
 
  
