@@ -12,11 +12,16 @@
 <h3 align="center">░▒▓█ WHOAMI █▓▒░</h3>
 
 <p align="center">
-A Computer Science Student at 1337 Benguerir who is passionate about programming and development, especialy web-dev. <b>Front-end</b>, I'm always eager to help people "ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ, ɪ'ᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ 🙂". <br> The feeling of progress and consistency captivates me.<br>
-I want to be the best I can, keep giving my best, and continually challenging myself. Only then do I feel comfortable, because I know it's an opportunity to evolve. I have clear goals. Goals that I set with my inner self. My priority is to be better than what I was yesterday.<br>
-Programming changed my thinking a lot, besides, of course, making me learn more - which I'm enjoying thoroughly!. <br>
-"Learning never exhausts the mind." - Leonardo da Vinci <br>
-Just keep swimming
+As a Computer Science Student at 1337 Benguerir, I am deeply passionate about programming and software development, with a particular focus on web development and front-end technologies. I always strive to assist and support others in their journey - feel free to "ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ, ɪ'ᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ 🙂" <br>
+My unwavering commitment to progress and consistency drives my enthusiasm for the field. I am dedicated to being the best version of myself, continuously pushing my boundaries and seeking new challenges. It is in these moments of growth and evolution that I find my comfort and purpose.
+I have set clear and personal goals, measured not against others, but against my own past self. My top priority is self-improvement, aiming to be a better version of who I was yesterday.<br>
+Programming has not only enriched my technical skills but also transformed my thinking, enhancing my problem-solving abilities. The process of learning and growing in this field is an experience I thoroughly enjoy, echoing Leonardo da Vinci's wisdom that 'Learning never exhausts the mind.'
+<br>
+
+<p align="center">
+  <font color="purple"> >_ Just keep swimming.</font>
+</p>
+I find my inspiration in these encouraging words from my best friend. They serve as a constant reminder to persevere through life's challenges, maintain resilience, and steadfastly continue moving forward.
 </p>
 
 
