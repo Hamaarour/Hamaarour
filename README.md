@@ -49,20 +49,20 @@ I find my inspiration in these encouraging words from my best friend. They serve
 <h3>░▒▓█ 1337 PROJECTS █▓▒░</h3>
 
 
-<a href="https://github.com/Hamaarour/libft-1337"><img src="https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png"></a>
-<a href="https://github.com/Hamaarour/ft_printf_1337"><img src="https://github.com/ablaamim/ft_printf/blob/main/SRC/ft_printfm.png"></a>
-<a href="https://github.com/Hamaarour/get_next_line_1337"><img src="https://github.com/ablaamim/Get_Next_Line/blob/main/SRC/get_next_linem.png"></a>
-<a href="https://github.com/Hamaarour/Born2Beroot_1337"><img src="https://github.com/ablaamim/Born2BeRoot/blob/main/SRC/born2berootm.png"></a>
-<a href="https://github.com/Hamaarour/So_Long_42"><img src="https://cdn.discordapp.com/attachments/780570837505540126/974802342400655360/so_long.png">
-<a href="https://github.com/Hamaarour/Minitalk_42"><img src="https://github.com/Hamaarour/Minitalk_42/blob/main/minitalkm.png">
+<a href="https://github.com/Hamaarour/libft-1337"><img height="80" src="https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png"></a>
+<a href="https://github.com/Hamaarour/ft_printf_1337"><img height="90" src="https://github.com/ablaamim/ft_printf/blob/main/SRC/ft_printfm.png"></a>
+<a href="https://github.com/Hamaarour/get_next_line_1337"><img height="90" src="https://github.com/ablaamim/Get_Next_Line/blob/main/SRC/get_next_linem.png"></a>
+<a href="https://github.com/Hamaarour/Born2Beroot_1337"><img height="90" src="https://github.com/ablaamim/Born2BeRoot/blob/main/SRC/born2berootm.png"></a>
+<a href="https://github.com/Hamaarour/So_Long_42"><img height="90" src="https://cdn.discordapp.com/attachments/780570837505540126/974802342400655360/so_long.png">
+<a href="https://github.com/Hamaarour/Minitalk_42"><img height="90" src="https://github.com/Hamaarour/Minitalk_42/blob/main/minitalkm.png">
 </a>
-<a href="https://github.com/Hamaarour/push_swap"><img src="https://github.com/Hamaarour/push_swap/blob/main/push_swapm.png">
-<a href="https://github.com/Hamaarour/minishell"><img src="https://github.com/Hamaarour/minishell/blob/Parsing/minishell.png">	
-<a href="https://github.com/Hamaarour/Philosopher"><img src="https://github.com/Hamaarour/Philosopher/blob/main/assets/philosophers.png">	
-<a href="https://github.com/Hamaarour/CPP_Modules"><img src="https://github.com/Hamaarour/CPP_Modules/blob/main/assets/cppe.png">
+<a href="https://github.com/Hamaarour/push_swap"><img height="90" src="https://github.com/Hamaarour/push_swap/blob/main/push_swapm.png">
+<a href="https://github.com/Hamaarour/minishell"><img height="90" src="https://github.com/Hamaarour/minishell/blob/Parsing/minishell.png">	
+<a href="https://github.com/Hamaarour/Philosopher"><img height="90" src="https://github.com/Hamaarour/Philosopher/blob/main/assets/philosophers.png">	
+<a href="https://github.com/Hamaarour/CPP_Modules"><img height="90" src="https://github.com/Hamaarour/CPP_Modules/blob/main/assets/cppe.png">
 
-<a href="https://github.com/Hamaarour/Net_Practice"><img src="https://github.com/Hamaarour/Net_Practice/blob/main/assets/netpracticee.png">
-<a href="https://github.com/Hamaarour/Cub3D_1337"><img 
+<a href="https://github.com/Hamaarour/Net_Practice"><img height="90" src="https://github.com/Hamaarour/Net_Practice/blob/main/assets/netpracticee.png">
+<a href="https://github.com/Hamaarour/Cub3D_1337"><img height="90"
 src="https://github.com/Hamaarour/Cub3D_1337/blob/parsing/assets/cub3de.png">
 
 
