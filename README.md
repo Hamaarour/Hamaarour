@@ -191,9 +191,6 @@ src="https://github.com/Hamaarour/Cub3D_1337/blob/parsing/assets/cub3de.png">
 
 
 
-![Codewars rank](https://www.codewars.com/users/Hicham%20Amaarour/badges/large)
-
-
 
 <p align="center">
 <img alt="Hamaarour's visitors" src="https://komarev.com/ghpvc/?username=Hamaarour&color=8c36db&style=flat&label=visitors" />
