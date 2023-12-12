@@ -17,11 +17,6 @@ My unwavering commitment to progress and consistency drives my enthusiasm for th
 I have set clear and personal goals, measured not against others, but against my own past self. My top priority is self-improvement, aiming to be a better version of who I was yesterday.<br>
 Programming has not only enriched my technical skills but also transformed my thinking, enhancing my problem-solving abilities. The process of learning and growing in this field is an experience I thoroughly enjoy, echoing Leonardo da Vinci's wisdom that 'Learning never exhausts the mind.'
 <br>
-
-<p align="center">
-  <font color="purple"> >_ "Just keep swimming."</font>
-I find my inspiration in these encouraging words from my best friend. They serve as a constant reminder to persevere through life's challenges, maintain resilience, and steadfastly continue moving forward.
-</p>
 </p>
 
 
