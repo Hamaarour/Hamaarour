@@ -177,11 +177,6 @@ src="https://github.com/Hamaarour/Cub3D_1337/blob/parsing/assets/cub3de.png">
 </table>
 <!-- -->
 
----------------
-| [![Hamaarour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamaarour&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Hamaarour?tab=repositories) | [![Hamaarour's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamaarour&layout=compact&hide_border=true&theme=jolly)](https://github.com/Hamaarour?tab=repositories) | 
-|:-:|:-:|
-	
-
 </div> 
 
 
