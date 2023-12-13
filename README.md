@@ -31,7 +31,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <img height="80" alt="figma" src="./assets/icons/figma.svg">
 </div>
 
-<img alt="languages and tools" src="./assets/images/project-product.svg">
+<!-- <img alt="languages and tools" src="./assets/images/project-product.svg"> -->
 
 <!-- <div>
 
