@@ -47,13 +47,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://github.com/Hamaarour/So_Long_42"><img height="80" src="https://cdn.discordapp.com/attachments/780570837505540126/974802342400655360/so_long.png">
 <a href="https://github.com/Hamaarour/Minitalk_42"><img height="80" src="https://github.com/Hamaarour/Minitalk_42/blob/main/minitalkm.png">
 </a>
-<a href="https://github.com/Hamaarour/push_swap"><img height="80" src="https://github.com/Hamaarour/push_swap/blob/main/push_swapm.png">
-<a href="https://github.com/Hamaarour/minishell"><img height="80" src="https://github.com/Hamaarour/minishell/blob/Parsing/minishell.png">
-<a href="https://github.com/Hamaarour/Philosopher"><img height="80" src="https://github.com/Hamaarour/Philosopher/blob/main/assets/philosophers.png">
-<a href="https://github.com/Hamaarour/CPP_Modules"><img height="80" src="https://github.com/Hamaarour/CPP_Modules/blob/main/assets/cppe.png">
+<a href="https://github.com/Hamaarour/push_swap"><img height="80" src="https://github.com/Hamaarour/push_swap/blob/main/push_swapm.png"> </a>
+<a href="https://github.com/Hamaarour/minishell"><img height="80" src="https://github.com/Hamaarour/minishell/blob/Parsing/minishell.png"></a>
+<a href="https://github.com/Hamaarour/Philosopher"><img height="80" src="https://github.com/Hamaarour/Philosopher/blob/main/assets/philosophers.png"></a>
+<a href="https://github.com/Hamaarour/CPP_Modules"><img height="80" src="https://github.com/Hamaarour/CPP_Modules/blob/main/assets/cppe.png"></a>
 
-<a href="https://github.com/Hamaarour/Net_Practice"><img height="80" src="https://github.com/Hamaarour/Net_Practice/blob/main/assets/netpracticee.png">
-<a href="https://github.com/Hamaarour/Cub3D_1337"><img height="80" src="https://github.com/Hamaarour/Cub3D_1337/blob/parsing/assets/cub3de.png">
+<a href="https://github.com/Hamaarour/Net_Practice"><img height="80" src="https://github.com/Hamaarour/Net_Practice/blob/main/assets/netpracticee.png"></a>
+<a href="https://github.com/Hamaarour/Cub3D_1337"><img height="80" src="https://github.com/Hamaarour/Cub3D_1337/blob/parsing/assets/cub3de.png"></a>
 
 </div>
 
