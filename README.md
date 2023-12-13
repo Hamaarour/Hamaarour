@@ -13,7 +13,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <div>
     <img height="80" alt="c" src="./assets/icons/c.svg">
-    <img height="80" alt="c++" src="./assets/icons/c++.svg">
+    <img height="80" alt="c++" src="./assets/icons/ccc.svg">
     <img height="80" alt="c#"  src="./assets/icons/cc.svg">
     <img height="80" alt="javaScript" src="./assets/icons/javaScript.svg">
     <img height="80" alt="typeScript" src="./assets/icons/typeScript.svg">
