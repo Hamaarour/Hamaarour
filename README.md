@@ -1,7 +1,5 @@
 <img alt="intro banner" src="./assets/images/banner.svg">
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
 As a Computer Science Student , I am deeply passionate about programming and software development, with a particular focus on web development and front-end technologies.
 <br>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
