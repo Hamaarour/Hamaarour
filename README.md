@@ -35,13 +35,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img alt="languages and tools" src="./assets/images/project-product.svg">
 
-<div>
-    <img height="280" alt="zognest" src="./assets/images/zognest.svg">
-    <img height="280" alt="9 one line" src="./assets/images/9one-line.svg">
-    <img height="280" alt="ozi" src="./assets/images/ozi.svg">
-    <img height="280" alt="store loop" src="./assets/images/store-loop.svg">
-    <img height="280" alt="salt pos" src="./assets/images/salt-pos.svg">
-</div>
+<!-- <div>
+    
+</div> -->
 
 <div>
 <a href="https://github.com/Hamaarour/libft-1337"><img height="80" src="https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png"></a>
