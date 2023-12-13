@@ -12,9 +12,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img alt="languages and tools" src="./assets/images/lng-tools.svg">
 
 <div>
-    <img height="80" alt="c" src="./assets/icons/c.svg">
-    <img height="80" alt="c++" src="./assets/icons/ccc.svg">
-    <img height="80" alt="c#"  src="./assets/icons/cc.svg">
+    <img height="60" alt="c" src="./assets/icons/c.svg">
+    <img height="60" alt="c++" src="./assets/icons/ccc.svg">
+    <img height="60" alt="c#"  src="./assets/icons/cc.svg">
     <img height="80" alt="javaScript" src="./assets/icons/javaScript.svg">
     <img height="80" alt="typeScript" src="./assets/icons/typeScript.svg">
     <img height="80" alt="nextJs" src="./assets/icons/nextJs.svg">
@@ -38,6 +38,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- <div>
 
 </div> -->
+
+<img alt="languages and tools" src="./assets/images/project-product.svg">
 
 <div>
 <a href="https://github.com/Hamaarour/libft-1337"><img height="80" src="https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png"></a>
