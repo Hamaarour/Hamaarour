@@ -53,8 +53,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://github.com/Hamaarour/CPP_Modules"><img height="80" src="https://github.com/Hamaarour/CPP_Modules/blob/main/assets/cppe.png">
 
 <a href="https://github.com/Hamaarour/Net_Practice"><img height="80" src="https://github.com/Hamaarour/Net_Practice/blob/main/assets/netpracticee.png">
-<a href="https://github.com/Hamaarour/Cub3D_1337"><img height="80"
-src="https://github.com/Hamaarour/Cub3D_1337/blob/parsing/assets/cub3de.png">
+<a href="https://github.com/Hamaarour/Cub3D_1337"><img height="80" src="https://github.com/Hamaarour/Cub3D_1337/blob/parsing/assets/cub3de.png">
 
 </div>
 
