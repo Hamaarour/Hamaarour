@@ -6,6 +6,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img height="10" alt="java" src="./assets/images/dot.svg"> Ask me about anything, I am happy to help; <br />
 <img height="10" alt="java" src="./assets/images/dot.svg"> How to reach me: hichamamaarou@gmail.com <br />
+<img height="10" alt="java" src="./assets/images/dot.svg"> Linkden: <a href="www.linkedin.com/in/hicham-amaarour" target="_blank">LinkedIn</a> <br />
+
 
 <img alt="languages and tools" src="./assets/images/lng-tools.svg">
 
