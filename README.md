@@ -43,7 +43,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img alt="languages and tools" src="./assets/images/project-product.svg">
 
 <div>
-<a href="https://github.com/Hamaarour/libft-1337"><img height="80" src="https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png"></a>
+<a href="https://github.com/Hamaarour/libft-1337"><img height="80" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png"></a>
 <a href="https://github.com/Hamaarour/ft_printf_1337"><img height="80" src="https://github.com/ablaamim/ft_printf/blob/main/SRC/ft_printfm.png"></a>
 <a href="https://github.com/Hamaarour/get_next_line_1337"><img height="80" src="https://github.com/ablaamim/Get_Next_Line/blob/main/SRC/get_next_linem.png"></a>
 <a href="https://github.com/Hamaarour/Born2Beroot_1337"><img height="80" src="https://github.com/ablaamim/Born2BeRoot/blob/main/SRC/born2berootm.png"></a>
