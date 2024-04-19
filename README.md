@@ -15,6 +15,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <img height="60" alt="c" src="./assets/icons/c.svg">
     <img height="60" alt="c++" src="./assets/icons/ccc.svg">
     <img height="60" alt="c#"  src="./assets/icons/cc.svg">
+    <img height="60" alt="Docker"  src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013-500x281.png">
     <img height="80" alt="javaScript" src="./assets/icons/javaScript.svg">
     <img height="80" alt="typeScript" src="./assets/icons/typeScript.svg">
     <img height="80" alt="nextJs" src="./assets/icons/nextJs.svg">
