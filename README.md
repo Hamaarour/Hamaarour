@@ -56,6 +56,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://github.com/Hamaarour/Net_Practice"><img height="80" src="https://github.com/Hamaarour/Net_Practice/blob/main/assets/netpracticee.png"></a>
 <a href="https://github.com/Hamaarour/Cub3D_1337"><img height="80" src="https://github.com/Hamaarour/Cub3D_1337/blob/parsing/assets/cub3de.png"></a>
 <a href="https://github.com/Hamaarour/Inception"><img height="80" src="https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png?raw=true"></a>
+<a href="https://github.com/Hamaarour/ft_irc"><img height="80" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_ircm.png?raw=true"></a>
 
 </div>
 
