@@ -5,9 +5,9 @@ As a Computer Science Student , I am deeply passionate about programming and sof
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <img height="10" alt="java" src="./assets/images/dot.svg"> Ask me about anything, I am happy to help; <br />
-<img height="10" alt="java" src="./assets/images/dot.svg"> How to reach me: hichamamaarou@gmail.com <br />
+<img height="10" alt="java" src="./assets/images/dot.svg"> How to reach me: contact.hamaarou@gmail.com <br />
 <img height="10" alt="java" src="./assets/images/dot.svg"> Linkden: <a href="www.linkedin.com/in/hicham-amaarour" target="_blank">LinkedIn</a> <br />
-<img height="10" alt="java" src="./assets/images/dot.svg"> Portfolio : <a href="https://hichamamaarour.vercel.app/" target="_blank"> Visite my website </a> <br />
+<img height="10" alt="java" src="./assets/images/dot.svg"> Portfolio : <a href="https://hichamamaarour.com/" target="_blank"> Visite my website </a> <br />
 
 
 <img alt="languages and tools" src="./assets/images/lng-tools.svg">
